@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ravenous2/static/css/main.24072515.chunk.css",
-    "main.js": "/ravenous2/static/js/main.675fec7d.chunk.js",
-    "main.js.map": "/ravenous2/static/js/main.675fec7d.chunk.js.map",
+    "main.js": "/ravenous2/static/js/main.74814d8d.chunk.js",
+    "main.js.map": "/ravenous2/static/js/main.74814d8d.chunk.js.map",
     "runtime-main.js": "/ravenous2/static/js/runtime-main.599e8a6d.js",
     "runtime-main.js.map": "/ravenous2/static/js/runtime-main.599e8a6d.js.map",
     "static/js/2.99d41395.chunk.js": "/ravenous2/static/js/2.99d41395.chunk.js",
     "static/js/2.99d41395.chunk.js.map": "/ravenous2/static/js/2.99d41395.chunk.js.map",
     "index.html": "/ravenous2/index.html",
-    "precache-manifest.03e3659beb637295d9278bc674c08b70.js": "/ravenous2/precache-manifest.03e3659beb637295d9278bc674c08b70.js",
+    "precache-manifest.30f710b828ce7a4cbd81927aff139dcc.js": "/ravenous2/precache-manifest.30f710b828ce7a4cbd81927aff139dcc.js",
     "service-worker.js": "/ravenous2/service-worker.js",
     "static/css/main.24072515.chunk.css.map": "/ravenous2/static/css/main.24072515.chunk.css.map",
     "static/js/2.99d41395.chunk.js.LICENSE.txt": "/ravenous2/static/js/2.99d41395.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.599e8a6d.js",
     "static/js/2.99d41395.chunk.js",
     "static/css/main.24072515.chunk.css",
-    "static/js/main.675fec7d.chunk.js"
+    "static/js/main.74814d8d.chunk.js"
   ]
 }
